@@ -1,2 +1,7 @@
-# Langchain-pdf-search
-Pdf dosyasını Python ile okuyup metni parçalara bölmek ve kullanıcının sorduğu soruya göre en alakalı pdf bölümlerini bulmak. Openai / API gerektirmez.
+# LangChain PDF Semantic Search
+
+Bu proje, Langchain kullanarak pdf dosyaları üzerinde semantic search yapmayı sağlar.
+
+# Kurulum
+```bash
+pip install -r requirements.txt
