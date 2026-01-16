@@ -2,6 +2,6 @@
 
 Bu proje, Langchain kullanarak pdf dosyaları üzerinde semantic search yapmayı sağlar.
 
-# Kurulum
+# Setup
 ```bash
 pip install -r requirements.txt
